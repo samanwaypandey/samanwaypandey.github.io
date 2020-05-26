@@ -100,7 +100,7 @@
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 200;
-		line-height: 0.65;
+		line-height: 0.45;
 	}
 
 		@media screen and (max-width: 1680px) {
