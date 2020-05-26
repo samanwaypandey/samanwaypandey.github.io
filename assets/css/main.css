@@ -23,7 +23,7 @@
 	}
 
 	body {
-		line-height: 10;
+		line-height: 1;
 	}
 
 	ol, ul {
@@ -66,7 +66,7 @@
 		-ms-overflow-style: scrollbar;
 	}
 
-	@media screen and (max-width: 520px) {
+	@media screen and (max-width: 420px) {
 
 		html, body {
 			min-width: 320px;
